@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 ## Greedy
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Hash Table
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
+## Prefix Sum
+|  |
+| ------- |
+| [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
