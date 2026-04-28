@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [2833-furthest-point-from-origin](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2833-furthest-point-from-origin) |
 ## Counting
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
