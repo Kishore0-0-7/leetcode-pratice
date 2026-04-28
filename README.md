@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
