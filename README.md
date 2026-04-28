@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
