@@ -161,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
