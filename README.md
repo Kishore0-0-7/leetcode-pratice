@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
+| [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 ## String
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
 | [2833-furthest-point-from-origin](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
