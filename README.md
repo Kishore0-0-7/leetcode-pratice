@@ -52,6 +52,7 @@
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0796-rotate-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
