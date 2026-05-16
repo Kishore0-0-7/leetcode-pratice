@@ -14,6 +14,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Tree
 |  |
 | ------- |
