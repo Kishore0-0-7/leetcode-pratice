@@ -20,6 +20,7 @@
 | [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -66,6 +67,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2833-furthest-point-from-origin) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -120,6 +122,7 @@
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 ## Rolling Hash
 |  |
@@ -197,5 +200,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
