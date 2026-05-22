@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -152,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
