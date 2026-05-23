@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
