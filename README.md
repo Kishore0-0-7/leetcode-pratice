@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
+| [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -205,4 +207,8 @@
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
