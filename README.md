@@ -55,6 +55,7 @@
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2833-furthest-point-from-origin) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Counting
 |  |
 | ------- |
