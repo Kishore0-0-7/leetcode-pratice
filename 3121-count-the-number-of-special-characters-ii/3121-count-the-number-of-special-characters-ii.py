@@ -1,0 +1,22 @@
+class Solution(object):
+    def numberOfSpecialChars(self, word):
+        """
+        :type word: str
+        :rtype: int
+        """
+        n=len(word)
+        last_lower=[-1]*26
+        first_upper=[-1]*26
+        for i,ch in enumerate(word):
+            if ch.islower():
+                last_lower[ord(ch)-ord('a')]=i
+            else:
+                idx=ord(ch)-ord('A')
+                if first_upper[idx]==-1:
+                    first_upper[idx]=i
+        count=0
+        for i in range(26):
+            if last_lower[i]!=-1 and first_upper[i]!=-1:
+                if last_lower[i]<first_upper[i]:
+                    count+=1
+        return count
