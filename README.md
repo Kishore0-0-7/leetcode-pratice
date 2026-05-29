@@ -32,6 +32,7 @@
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3660-jump-game-ix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
@@ -93,6 +94,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Sorting
 |  |
 | ------- |
