@@ -4,10 +4,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        ans=float('inf')
-        for num in nums:
-            t=0
-            for v in str(num):
-                t+=int(v)
-            ans=min(ans,t)
-        return ans
+        return min(sum(int(d) for d in str(num)) for num in nums)
