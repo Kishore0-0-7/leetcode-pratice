@@ -25,6 +25,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
+| [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -43,6 +44,7 @@
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Hash Table
@@ -103,6 +105,7 @@
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |
