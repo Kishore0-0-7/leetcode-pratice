@@ -6,9 +6,8 @@ class Solution(object):
         :rtype: bool
         """
         asteroids.sort()
-        cur=mass
         for a in asteroids:
-            if cur<a:
+            if mass < a:
                 return False
-            cur+=a
+            mass += a
         return True
