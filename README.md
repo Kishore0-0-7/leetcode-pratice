@@ -103,6 +103,7 @@
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0152-maximum-product-subarray) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3660-jump-game-ix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
