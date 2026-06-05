@@ -32,6 +32,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2826-sorting-three-groups](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2826-sorting-three-groups) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -126,6 +127,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0152-maximum-product-subarray) |
+| [2826-sorting-three-groups](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2826-sorting-three-groups) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3660-jump-game-ix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -184,6 +186,7 @@
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
+| [2826-sorting-three-groups](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2826-sorting-three-groups) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Tree
