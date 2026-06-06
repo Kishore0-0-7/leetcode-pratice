@@ -29,6 +29,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
 | [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
+| [2574-left-and-right-sum-differences](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 ## String
 |  |
