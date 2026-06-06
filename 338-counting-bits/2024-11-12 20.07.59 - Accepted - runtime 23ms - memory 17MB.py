@@ -1,0 +1,8 @@
+class Solution(object):
+    def countBits(self, n):
+        l=[]
+        for i in range(n+1):
+            a=str(bin(i))[2:]
+            b=a.count("1")
+            l.append(b)
+        return l

@@ -1,0 +1,10 @@
+class Solution(object):
+    def wordSubsets(self, words1, words2):
+        result = []
+        tempDict =Counter()
+        for w in words2:
+            tempDict |= Counter(w)
+        for w in words1:
+            if not tempDict - Counter(w):
+                result.append(w)
+        return result

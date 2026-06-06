@@ -1,0 +1,16 @@
+class Solution(object):
+    def mapWordWeights(self, words, weights):
+        """
+        :type words: List[str]
+        :type weights: List[int]
+        :rtype: str
+        """
+        result=[]
+        for word in words:
+            total=0
+            for ch in word:
+                total+=weights[ord(ch)-ord('a')]
+            mod=total%26
+            mapped=chr(ord('z')-mod)
+            result.append(mapped)
+        return "".join(result)

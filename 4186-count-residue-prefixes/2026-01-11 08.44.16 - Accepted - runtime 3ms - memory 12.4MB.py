@@ -1,0 +1,13 @@
+class Solution(object):
+    def residuePrefixes(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        seen=set()
+        count=0
+        for i, ch in enumerate(s):
+            seen.add(ch)
+            if len(seen)==(i+1)%3:
+                count+=1
+        return count

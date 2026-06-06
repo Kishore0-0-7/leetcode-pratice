@@ -1,0 +1,18 @@
+class Solution(object):
+    def minOperations(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        n=len(nums)
+        stack=[0]*(n+1)
+        top=0
+        ans=0
+        for num in nums:
+            while stack[top]>num:
+                top-=1
+                ans+=1
+            if stack[top]!=num:
+                top+=1
+                stack[top]=num
+        return ans+top

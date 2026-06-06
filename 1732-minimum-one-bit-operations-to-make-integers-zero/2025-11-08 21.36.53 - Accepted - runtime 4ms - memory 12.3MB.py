@@ -1,0 +1,23 @@
+class Solution(object):
+    def minimumOneBitOperations(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        if n==0:
+            return 0
+        fun=[0]*32
+        fun[0]=1
+        for i in range(1,32):
+            fun[i]=2*fun[i-1]+1
+        res=0
+        sign=1
+        for i in range(30,-1,-1):
+            if (n>>i)&1==0:
+                continue
+            if sign>0:
+                res+=fun[i]
+            else:
+                res-=fun[i]
+            sign*=-1
+        return res
