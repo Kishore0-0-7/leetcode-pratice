@@ -91,6 +91,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2833-furthest-point-from-origin) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3210-find-the-encrypted-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3210-find-the-encrypted-string) |
 ## Counting
 |  |
 | ------- |
