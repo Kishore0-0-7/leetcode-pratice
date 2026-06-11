@@ -36,6 +36,7 @@
 | [2826-sorting-three-groups](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2826-sorting-three-groups) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -51,6 +52,7 @@
 | [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
@@ -132,6 +134,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0152-maximum-product-subarray) |
 | [2826-sorting-three-groups](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2826-sorting-three-groups) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3660-jump-game-ix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
