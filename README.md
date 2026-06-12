@@ -12,6 +12,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
+| [0624-maximum-distance-in-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
