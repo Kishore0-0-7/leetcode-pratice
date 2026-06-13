@@ -42,6 +42,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3660-jump-game-ix) |
+| [3838-weighted-word-mapping](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3210-find-the-encrypted-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3210-find-the-encrypted-string) |
+| [3838-weighted-word-mapping](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3838-weighted-word-mapping) |
 ## Graph Theory
 |  |
 | ------- |
