@@ -161,6 +161,7 @@
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -184,6 +185,7 @@
 | [0061-rotate-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0145-binary-tree-postorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
