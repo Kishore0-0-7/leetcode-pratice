@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
@@ -251,6 +252,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0136-single-number) |
 | [0868-binary-gap](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0868-binary-gap) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
