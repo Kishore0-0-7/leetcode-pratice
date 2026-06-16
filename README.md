@@ -17,6 +17,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
+| [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
@@ -51,6 +52,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
+| [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -67,6 +69,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
@@ -113,6 +116,7 @@
 | [0009-palindrome-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0172-factorial-trailing-zeroes) |
+| [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
