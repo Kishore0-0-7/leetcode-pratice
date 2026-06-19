@@ -248,6 +248,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -283,6 +285,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
