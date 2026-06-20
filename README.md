@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0048-rotate-image) |
@@ -138,6 +139,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
@@ -182,6 +184,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
