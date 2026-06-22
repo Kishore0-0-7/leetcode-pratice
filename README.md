@@ -28,6 +28,7 @@
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -62,6 +63,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
@@ -134,6 +136,7 @@
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -145,6 +148,7 @@
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
@@ -353,4 +357,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
