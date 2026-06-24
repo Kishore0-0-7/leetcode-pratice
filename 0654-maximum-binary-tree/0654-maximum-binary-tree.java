@@ -19,6 +19,7 @@ class Solution {
     }
     TreeNode helper(int[] nums,int start,int end){
         if(start>end) return null;
+        if(start==end) return new TreeNode(nums[start]);
         int idx=start;
         for(int i=start;i<=end;i++){
             if (nums[i]>nums[idx]) idx=i;
