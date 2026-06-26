@@ -233,6 +233,7 @@
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0206-reverse-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -274,6 +275,7 @@
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
+| [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
