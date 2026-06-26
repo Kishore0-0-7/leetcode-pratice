@@ -41,6 +41,7 @@
 | [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2574-left-and-right-sum-differences) |
@@ -276,6 +277,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
