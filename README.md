@@ -86,6 +86,7 @@
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0652-find-duplicate-subtrees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0652-find-duplicate-subtrees) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
@@ -280,6 +281,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
@@ -302,6 +304,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0652-find-duplicate-subtrees) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
@@ -341,6 +344,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
