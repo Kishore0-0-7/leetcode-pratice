@@ -279,6 +279,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
@@ -300,6 +301,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0623-add-one-row-to-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
@@ -316,6 +318,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0623-add-one-row-to-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0623-add-one-row-to-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 ## Binary Tree
@@ -337,6 +340,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0623-add-one-row-to-tree) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
