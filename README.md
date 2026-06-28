@@ -24,6 +24,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
@@ -152,6 +153,7 @@
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -192,6 +194,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
@@ -205,6 +208,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2109-adding-spaces-to-a-string) |
@@ -248,6 +252,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
@@ -369,6 +374,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
