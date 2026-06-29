@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0136-single-number) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -273,6 +275,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -345,6 +348,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -418,6 +422,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Game Theory
