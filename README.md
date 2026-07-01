@@ -294,6 +294,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0606-construct-string-from-binary-tree) |
@@ -322,6 +323,7 @@
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0606-construct-string-from-binary-tree) |
@@ -371,6 +373,7 @@
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0606-construct-string-from-binary-tree) |
@@ -440,6 +443,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Game Theory
