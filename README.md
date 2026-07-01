@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0031-next-permutation) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
@@ -417,6 +419,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0014-longest-common-prefix) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Enumeration
 |  |
