@@ -113,6 +113,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
@@ -182,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -452,4 +454,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
