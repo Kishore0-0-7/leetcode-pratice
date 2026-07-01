@@ -150,6 +150,7 @@
 | [0048-rotate-image](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0263-ugly-number) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1344-angle-between-hands-of-a-clock) |
