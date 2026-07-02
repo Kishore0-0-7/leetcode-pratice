@@ -149,6 +149,7 @@
 | [0009-palindrome-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0263-ugly-number) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
@@ -187,6 +188,7 @@
 | [0022-generate-parentheses](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -279,6 +281,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -359,6 +362,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -442,6 +446,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
