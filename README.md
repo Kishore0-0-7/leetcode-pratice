@@ -31,6 +31,7 @@
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
+| [1470-shuffle-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
