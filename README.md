@@ -261,6 +261,7 @@
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0328-odd-even-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
