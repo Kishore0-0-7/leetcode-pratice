@@ -314,6 +314,7 @@
 | [0655-print-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
@@ -398,6 +399,7 @@
 | [0655-print-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
@@ -465,6 +467,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
