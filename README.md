@@ -317,6 +317,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -367,6 +368,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -402,6 +404,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
