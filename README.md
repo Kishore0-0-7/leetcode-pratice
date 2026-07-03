@@ -169,6 +169,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -228,6 +230,7 @@
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
@@ -260,6 +263,7 @@
 | [0061-rotate-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0328-odd-even-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
@@ -495,4 +499,8 @@
 | [0039-combination-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0090-subsets-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
