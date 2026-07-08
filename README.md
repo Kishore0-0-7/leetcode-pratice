@@ -114,6 +114,7 @@
 | [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [3210-find-the-encrypted-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3210-find-the-encrypted-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -166,6 +168,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
