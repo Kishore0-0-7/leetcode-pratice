@@ -98,6 +98,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0652-find-duplicate-subtrees) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
@@ -175,6 +176,7 @@
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -327,6 +329,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -356,6 +359,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
@@ -380,6 +384,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -417,6 +422,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
