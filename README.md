@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0073-set-matrix-zeroes) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -238,6 +240,7 @@
 | [0015-3sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0141-linked-list-cycle) |
@@ -447,6 +450,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -515,6 +519,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 ## Design
 |  |
