@@ -54,6 +54,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -107,6 +108,7 @@
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2540-minimum-common-value](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -236,6 +238,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Two Pointers
 |  |
