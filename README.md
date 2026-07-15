@@ -356,6 +356,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Depth-First Search
@@ -457,6 +458,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Stack
