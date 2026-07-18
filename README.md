@@ -49,6 +49,7 @@
 | [1929-concatenation-of-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -183,6 +184,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -570,5 +572,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
