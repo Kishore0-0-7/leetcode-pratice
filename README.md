@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0287-find-the-duplicate-number) |
+| [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
@@ -107,6 +108,7 @@
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0652-find-duplicate-subtrees](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0652-find-duplicate-subtrees) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -249,6 +251,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -515,6 +518,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
