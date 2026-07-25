@@ -413,6 +413,7 @@
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -439,6 +440,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -521,6 +523,7 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -586,4 +589,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
