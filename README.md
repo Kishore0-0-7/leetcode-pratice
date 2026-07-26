@@ -32,6 +32,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0287-find-the-duplicate-number) |
 | [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
@@ -183,6 +184,7 @@
 | [0062-unique-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0991-broken-calculator) |
@@ -205,6 +207,7 @@
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
