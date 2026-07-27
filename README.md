@@ -26,6 +26,7 @@
 | [0136-single-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
@@ -227,6 +228,7 @@
 | [0063-unique-paths-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
@@ -400,6 +402,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -431,6 +434,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -598,5 +602,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
