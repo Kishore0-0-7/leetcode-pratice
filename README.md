@@ -40,6 +40,7 @@
 | [0704-binary-search](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0781-rabbits-in-forest) |
+| [0994-rotting-oranges](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
@@ -231,6 +232,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
@@ -451,6 +453,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
