@@ -99,6 +99,7 @@
 | [2126-destroying-asteroids](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -164,6 +165,7 @@
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2833-furthest-point-from-origin) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3210-find-the-encrypted-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3210-find-the-encrypted-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3612-process-string-with-special-operations-i) |
@@ -197,6 +199,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
