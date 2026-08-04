@@ -435,6 +435,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1367-linked-list-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -553,6 +554,7 @@
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
