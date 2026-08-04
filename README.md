@@ -83,6 +83,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3660-jump-game-ix) |
+| [3731-find-missing-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -132,6 +133,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
