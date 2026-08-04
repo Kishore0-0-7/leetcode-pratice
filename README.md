@@ -262,6 +262,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0148-sort-list) |
@@ -322,6 +323,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0138-copy-list-with-random-pointer) |
@@ -558,6 +560,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
 | [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -616,6 +619,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0148-sort-list) |
 ## Number Theory
 |  |
@@ -631,4 +635,8 @@
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
