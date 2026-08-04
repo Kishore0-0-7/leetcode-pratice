@@ -551,6 +551,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -624,4 +625,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1971-find-if-path-exists-in-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
