@@ -124,6 +124,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1854-maximum-population-year](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1854-maximum-population-year) |
 | [2574-left-and-right-sum-differences](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2615-sum-of-distances) |
@@ -159,6 +161,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1528-shuffle-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -253,6 +256,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0152-maximum-product-subarray) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1987-number-of-unique-good-subsequences) |
 | [2826-sorting-three-groups](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2826-sorting-three-groups) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -531,6 +535,7 @@
 | [0136-single-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0287-find-the-duplicate-number) |
 | [0868-binary-gap](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0868-binary-gap) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1720-decode-xored-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1720-decode-xored-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/2932-maximum-strong-pair-xor-i) |
