@@ -162,6 +162,7 @@
 | [0125-valid-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0520-detect-capital](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0520-detect-capital) |
 | [0606-construct-string-from-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0606-construct-string-from-binary-tree) |
@@ -392,6 +393,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -433,6 +435,7 @@
 | [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -509,6 +512,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -637,6 +641,7 @@
 | [0051-n-queens](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0797-all-paths-from-source-to-target) |
 ## Merge Sort
 |  |
