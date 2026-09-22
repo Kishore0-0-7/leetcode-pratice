@@ -31,6 +31,7 @@
 | [0200-number-of-islands](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0287-find-the-duplicate-number) |
 | [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
@@ -588,6 +590,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -674,4 +677,16 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0051-n-queens) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
