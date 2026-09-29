@@ -692,5 +692,6 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
