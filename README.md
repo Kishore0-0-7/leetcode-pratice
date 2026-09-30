@@ -700,5 +700,6 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
