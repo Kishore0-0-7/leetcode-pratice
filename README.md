@@ -701,6 +701,7 @@
 | [1068-product-sales-analysis-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Kishore0-0-7/leetcode-pratice/tree/master/1729-find-followers-count) |
